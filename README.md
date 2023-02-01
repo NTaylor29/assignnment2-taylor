@@ -24,3 +24,9 @@ I have never been outside the United States, but I can recommend some based on p
 | UK      | They talk weird | 5 |
 | Mexico  | Cheap     | 14   |
 | Italy   | Eiffel Tower | 21 |
+
+---
+### Funny Quotes
+> If you got a dog, feed it. If you don't, don't. *- Bobby Shmurda*
+
+> Ouch I got shocked. *- probably Benjamin Frankin*
