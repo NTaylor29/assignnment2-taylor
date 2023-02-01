@@ -32,8 +32,8 @@ I have never been outside the United States, but I can recommend some based on p
 > Ouch I got shocked. *- probably Benjamin Frankin*
 
 ---
-> I'm trying to retrieve the value from a Custom field as below. It doesn't seem to get any value. Please point out the mistakes in it.
-[StackOverflow Link](https://stackoverflow.com/questions/66293239/wordpress-how-to-retrieve-custom-field-data-from-the-page)
+### Code Fencing
+> I'm trying to retrieve the value from a Custom field as below. It doesn't seem to get any value. Please point out the mistakes in it. [StackOverflow Link](https://stackoverflow.com/questions/66293239/wordpress-how-to-retrieve-custom-field-data-from-the-page)
 ```
 <h3>All Post Meta</h3>
 
