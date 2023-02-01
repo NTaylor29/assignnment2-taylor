@@ -12,3 +12,5 @@ Los Angeles Dodgers
 - Toronto Blue Jays
 - Boston Red Sox
 - Miami Marlins
+
+Link to my AboutMe: [AboutMe](https://github.com/NTaylor29/assignnment2-taylor/blob/main/AboutMe.md)
