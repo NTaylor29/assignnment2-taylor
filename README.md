@@ -34,7 +34,7 @@ I have never been outside the United States, but I can recommend some based on p
 ---
 > I'm trying to retrieve the value from a Custom field as below. It doesn't seem to get any value. Please point out the mistakes in it.
 [StackOverflow Link](https://stackoverflow.com/questions/66293239/wordpress-how-to-retrieve-custom-field-data-from-the-page)
-'''
+```
 <h3>All Post Meta</h3>
 
 <?php 
@@ -56,5 +56,5 @@ I have never been outside the United States, but I can recommend some based on p
 
     }
 ?>
-'''
+```
 [Code Snippet](https://css-tricks.com/snippets/wordpress/dump-all-custom-fields/)
