@@ -8,3 +8,7 @@ Los Angeles Dodgers
 1. Gavin Lux
 2. Mookie Betts
 3. Trayce Thompson
+
+- Toronto Blue Jays
+- Boston Red Sox
+- Miami Marlins
